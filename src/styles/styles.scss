@@ -1,0 +1,23 @@
+@import '../components/app/app.scss';
+@import '../components/header/header.scss';
+@import '../components/main/main.scss';
+@import '../components/footer/footer.scss';
+@import '../../public/index.scss';
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+img {
+    max-width: 100%;
+    height: auto;
+}  
+
+button {
+    border: none; 
+    outline: none; 
+}
