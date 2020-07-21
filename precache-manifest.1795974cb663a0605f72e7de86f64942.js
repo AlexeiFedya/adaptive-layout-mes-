@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71c954e08709ac1a11e512e0a0c3ccb3",
+    "revision": "c5996b9f1559b27cb9b6fb1c23870bc0",
     "url": "/adaptive-layout-mes-/index.html"
   },
   {
-    "revision": "191de2fe131eadc5d20b",
-    "url": "/adaptive-layout-mes-/static/css/main.d3b9d85e.chunk.css"
+    "revision": "c4cafd4a8d7a3bb094a4",
+    "url": "/adaptive-layout-mes-/static/css/main.07a58322.chunk.css"
   },
   {
-    "revision": "c81320261c79a5849da5",
-    "url": "/adaptive-layout-mes-/static/js/2.1454bac3.chunk.js"
+    "revision": "b74ff60d935663a10382",
+    "url": "/adaptive-layout-mes-/static/js/2.a955efbb.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/adaptive-layout-mes-/static/js/2.1454bac3.chunk.js.LICENSE.txt"
+    "url": "/adaptive-layout-mes-/static/js/2.a955efbb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "191de2fe131eadc5d20b",
-    "url": "/adaptive-layout-mes-/static/js/main.bfbb6438.chunk.js"
+    "revision": "c4cafd4a8d7a3bb094a4",
+    "url": "/adaptive-layout-mes-/static/js/main.42ab41b1.chunk.js"
   },
   {
     "revision": "828ffe78fe301cc45a98",
     "url": "/adaptive-layout-mes-/static/js/runtime-main.c3fb3104.js"
   },
   {
-    "revision": "a03cd38d14ed34e607cb5b7d72592fb4",
-    "url": "/adaptive-layout-mes-/static/media/avatar.a03cd38d.svg"
+    "revision": "7b74c521a4354eb9f84c2cc23c1d3dd4",
+    "url": "/adaptive-layout-mes-/static/media/app.7b74c521.svg"
   },
   {
     "revision": "c681da4656a202b2ecd81bf5cb5d56ab",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adaptive-layout-mes-/static/media/clock.5ac458aa.svg"
   },
   {
+    "revision": "ebf2f3f4fa6920c7ea512bd4c2cca145",
+    "url": "/adaptive-layout-mes-/static/media/close.ebf2f3f4.svg"
+  },
+  {
     "revision": "fdfa559d2179f8598c2075c009e38bc5",
     "url": "/adaptive-layout-mes-/static/media/code.fdfa559d.svg"
   },
@@ -48,8 +52,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adaptive-layout-mes-/static/media/coding.66441ed5.svg"
   },
   {
+    "revision": "9aef94cebb4153e69712951381ceeced",
+    "url": "/adaptive-layout-mes-/static/media/down-arrow (2).9aef94ce.svg"
+  },
+  {
+    "revision": "ce8071803bd04f22a70f9268f2b3b1a1",
+    "url": "/adaptive-layout-mes-/static/media/down-arrow.ce807180.svg"
+  },
+  {
     "revision": "968d4e6029a1b497c6fbe6f3932d11b6",
     "url": "/adaptive-layout-mes-/static/media/down.968d4e60.svg"
+  },
+  {
+    "revision": "40776c5c528cff00bc24e18cab85e753",
+    "url": "/adaptive-layout-mes-/static/media/draft.40776c5c.svg"
   },
   {
     "revision": "284e37b2307a95decb25863e2ab8f7eb",
@@ -88,6 +104,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adaptive-layout-mes-/static/media/lock.2da83f11.svg"
   },
   {
+    "revision": "ba37d71e38b35424246640aa0124cc51",
+    "url": "/adaptive-layout-mes-/static/media/people.ba37d71e.svg"
+  },
+  {
+    "revision": "7dfaa7ade282d64a71f4cb00034b4a93",
+    "url": "/adaptive-layout-mes-/static/media/plus.7dfaa7ad.svg"
+  },
+  {
     "revision": "4ebf31deeb61f5a3ea92de5d92fbcbde",
     "url": "/adaptive-layout-mes-/static/media/search.4ebf31de.svg"
   },
@@ -104,11 +128,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adaptive-layout-mes-/static/media/tack.9982a423.svg"
   },
   {
+    "revision": "a501382dc303724404eb757e46140c92",
+    "url": "/adaptive-layout-mes-/static/media/threads.a501382d.svg"
+  },
+  {
     "revision": "3e81fb178d19ba0e4d42a04c5e425d16",
     "url": "/adaptive-layout-mes-/static/media/thunder.3e81fb17.svg"
   },
   {
     "revision": "5f6eb7caf50edf56c225361e8a8e629d",
-    "url": "/adaptive-layout-mes-/static/media/user.5f6eb7ca.svg"
+    "url": "/adaptive-layout-mes-/static/media/user (2).5f6eb7ca.svg"
+  },
+  {
+    "revision": "c19eeb3e1c8681452a31832fb5326929",
+    "url": "/adaptive-layout-mes-/static/media/user.c19eeb3e.svg"
   }
 ]);
